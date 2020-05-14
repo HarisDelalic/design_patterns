@@ -1,4 +1,4 @@
-package main.java.creational.models;
+package main.java.creational.factorymethod.models;
 
 public class Asteroid implements Obstacle {
 

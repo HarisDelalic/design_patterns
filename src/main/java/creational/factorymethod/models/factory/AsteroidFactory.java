@@ -1,7 +1,7 @@
-package main.java.creational.models.factory;
+package main.java.creational.factorymethod.models.factory;
 
-import main.java.creational.models.Asteroid;
-import main.java.creational.models.Obstacle;
+import main.java.creational.factorymethod.models.Asteroid;
+import main.java.creational.factorymethod.models.Obstacle;
 
 public class AsteroidFactory implements ObstacleFactory {
 

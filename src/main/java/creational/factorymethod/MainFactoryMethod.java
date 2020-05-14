@@ -1,8 +1,8 @@
-package main.java.creational;
+package main.java.creational.factorymethod;
 
-import main.java.creational.models.Obstacle;
-import main.java.creational.models.factory.AsteroidFactory;
-import main.java.creational.models.factory.ObstacleFactory;
+import main.java.creational.factorymethod.models.Obstacle;
+import main.java.creational.factorymethod.models.factory.AsteroidFactory;
+import main.java.creational.factorymethod.models.factory.ObstacleFactory;
 
 public class MainFactoryMethod {
 
